@@ -1,0 +1,79 @@
+Create a modern, professional, and well-structured personal portfolio website for **Ali Sefrioui**, an IT Project Manager specialized in **Systems, Networks, and Cybersecurity**.
+
+🎨 Design Guidelines:
+- Main Colors: Dark Green (#075653), Gold (#FFD700)
+- Fonts: Modern sans-serif (Montserrat or Lato)
+- Style: Clean, elegant, spacious layout with well-defined blocks
+- Icons: Use modern pictograms for mail, GitHub, network, terminal, LinkedIn
+- Visuals: Include light illustrations or SVGs related to cloud and cybersecurity
+- Layout: Responsive design (desktop + mobile), sidebar or top navigation bar
+- Add a **stylized photo of Ali Sefrioui** on the homepage
+- Use clear section titles with icons or subtle dividers
+
+📄 Portfolio Content Structure:
+
+1. 🏠 **Home**
+   - Name: Ali Sefrioui
+   - Title: IT Project Manager – Networks & Cybersecurity
+   - Quote: "Spécialisé en réseaux et cybersécurité, je suis à la recherche d'un CDI à partir du 1er octobre pour relever de nouveaux défis."
+   - Contact Info: alisefrioui@outlook.com | +33 6 98 15 40 15
+   - Location: Île-de-France | Permis B | Télétravail ou présentiel
+   - LinkedIn & Email buttons with icons
+
+2. 💡 **About**
+   - A paragraph introducing Ali's passion for cybersecurity and infrastructure
+   - Mention strengths: project management, technical support, automation, teamwork
+
+3. 🧠 **Skills**
+   - Systems: Linux (Samba AD), Windows Server (AD, Entra ID)
+   - Networking: IPTABLES, Cisco ASA, Routing & Switching, IPFire
+   - Cloud/Virtualization: VMware, Hyper-V, Proxmox, VirtualBox
+   - Programming: Python, C++, Rust, VBA, PowerApps
+   - Cybersecurity Tools: Maltego, FTK Imager, Wazuh, EBIOS, SMSI
+   - Simulation Tools: GNS3, Packet Tracer, Wireshark
+
+4. 🧰 **Projects**
+   - 🔐 AWS Security: IAM hardening, VPC Flow Logs, IMDSv2, segmentation
+   - 📊 CirculInfo: A PowerApps tool for train operation updates and traceability
+   - 🆘 MyROBOT: Automated incident analysis, charts, video tutorials, user training
+
+5. 📍 **Work Experience** (use timeline or cards)
+   - SNCF Voyageurs (2022–present) – Crisis management tools, multi-project coordination
+   - Bouygues Telecom (2019–2022) – N2 support, VoIP/IPTV, team coaching
+   - Digitalys Maroc (2018–2019) – Hardware diagnostics, supplier coordination
+
+6. 🎓 **Education**
+   - ESGI Paris – Master’s in Systems & Cybersecurity (2023–2025)
+   - EPITA – Web Development Expert Cycle (2022–2023)
+   - ENSA Fès – Systems & Network Engineering (2020–2022)
+
+7. 📜 **Certifications**
+   - CompTIA SecurityX (CASP+)
+   - Microsoft: Hyper-V, SC-900, SC-300, SC-100
+   - Cisco: CCNA 1–4, IT Essentials
+
+8. 🎯 **Professional Goal**
+   - Seeking full-time position from Oct 2025 in systems, networks, or cybersecurity
+
+9. 🧠 **Soft Skills**
+   - Team Spirit, Adaptability, Critical Thinking, Initiative, Precision
+
+10. 📄 **CV & Contact**
+    - Add a "Download CV" button (linked to CV_Ali_SEFRIOUI.pdf)
+    - Active links: LinkedIn, mailto
+    - Email Form: Send form submissions to **portfolio2025@hotmail.com**, and auto-forward to **ali.sefrioui@outlook.com**
+
+🔐 **Settings Section (protected)**
+- Add a “Settings” page protected by password: `Azerty@123***`
+- Once logged in, allow user to:
+  - Edit sections (Skills, Experience, Certifications, etc.) via a simple form interface
+  - Upload a new profile picture
+  - Save settings in localStorage or lightweight backend (optional)
+
+💡 Extras:
+- Use subtle gradient background or light pattern
+- Responsive navbar with icons
+- Use `react-icons` or `lucide-react` for clean icons
+- Optional: Animate sections on scroll using Framer Motion
+
+Use **React + TailwindCSS** as the main stack. Generate full working code structure with components for each section.
